@@ -1,21 +1,22 @@
-,id,name
-1,1,Stacy Holt
-2,2,Michael Larson
-0,0,Kim Grant
-1,1,Sykes Dale
-2,2,Combs Logan
-0,0,Goodwin Randolph
-1,1,Gibson George
-2,2,Mosley Francis
-0,0,Rosario Key
-1,1,Olson Long
-2,2,Gamble Burke
-0,0,Kayla Wood
-1,1,Shawna Russo
-2,2,Lorraine Cannon
-0,0,Gabrielle Mckee
-1,1,Summers Gross
-2,2,Ellison Melendez
-0,0,Melisa Morgan
-1,1,Jacobs Cross
-2,2,Margaret Frazier
+,id,name,friend_of
+0,0,Jimmie Miles,Jordan Allen
+1,1,Stacy Holt,Jordan Allen
+2,2,Michael Larson,Jordan Allen
+0,0,Kim Grant,Courtney Mendoza
+1,1,Sykes Dale,Courtney Mendoza
+2,2,Combs Logan,Courtney Mendoza
+0,0,Goodwin Randolph,Gates Rivas
+1,1,Gibson George,Gates Rivas
+2,2,Mosley Francis,Gates Rivas
+0,0,Rosario Key,Lopez Donaldson
+1,1,Olson Long,Lopez Donaldson
+2,2,Gamble Burke,Lopez Donaldson
+0,0,Kayla Wood,Gillespie Blankenship
+1,1,Shawna Russo,Gillespie Blankenship
+2,2,Lorraine Cannon,Gillespie Blankenship
+0,0,Gabrielle Mckee,Mccullough Fulton
+1,1,Summers Gross,Mccullough Fulton
+2,2,Ellison Melendez,Mccullough Fulton
+0,0,Melisa Morgan,Rachelle Lee
+1,1,Jacobs Cross,Rachelle Lee
+2,2,Margaret Frazier,Rachelle Lee
