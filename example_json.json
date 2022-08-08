@@ -1,0 +1,16 @@
+{
+    "person": {
+        "full name": "Marianne Klein",
+        "address":[   {
+            
+            			"street": "861 Conroy Passage",
+            			"city": "Williamsfield"
+            	       },
+                       {
+            			"street": "863 Conroy Passage",
+            			"city": "Amsterdam"
+                       }
+                    
+                ]
+    }
+}
